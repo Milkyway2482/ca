@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> CA 2, IT Fundamentals</title>
+</head>
+<body>
+
+<h1><center>CA 2, IT Fundamentals</h1></center>
+
+<h2>IT Fundamentals</h2>
+<ul>
+<l> Ella Green</l>
+<l> 110360979</l>
+<l> greey012@mymail.unisa.edu.au</l>
+<l> UO Information Technology Fundamentals</l>
+<ul>
+
+<p><br><br></p>
+<img> scr = https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg alt= https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg  </img>
+
+<p><br><br></p>
+https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg
+
+<p><br><br></p>
+<table style="width:100%">
+  <tr>
+    <th>Robot</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>Maria</td>
+    <td>1927</td>
+  </tr>
+  <tr>
+    <td>Kismat</td>
+    <td>1997</td>
+  </tr>
+    <tr>
+    <td>Pepper</td>
+    <td>2014</td>
+  </tr>
+</table>
+</b.ody>
+</html>
